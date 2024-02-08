@@ -1,6 +1,5 @@
 # Hello there; welcome 👋🏾
 
-[![AltSchool Badge]
 I'm a Software Engineer, and I'm passionate about sharing knowledge, documentation and others.
 
 **Here's a quick summary about me*
